@@ -1,5 +1,5 @@
 def task_1():
-    var_int: int = 7
+    var_int: int = 5
     var_float: float = 3.1415
     var_str: str = "завершить гештальт"
     var_list: list = [1, 2, 3, 4, 5]
